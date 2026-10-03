@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm YuPeng 👋
 
-<!--
-**ych680/ych680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Artificial Intelligence interested in AI Product, AI Solutions, and LLM Applications.
 
-Here are some ideas to get you started:
+I enjoy building practical AI applications that connect language models with real product workflows, with a current focus on **RAG, AI agents, workflow design, and system integration**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### MyTech — Grounded RAG Product Recommendation Assistant
+A grounded product recommendation chatbot built with FastGPT.
+
+- RAG with Knowledge Base retrieval
+- Multi-turn conversation and context management
+- Clarification and follow-up intent handling
+- Hard-budget protection
+- Structured JSON outputs
+- Frontend and backend integration
+- Systematic workflow testing
+
+> Currently being developed as part of my postgraduate AI coursework.
+
+### [StudyPal — Mobile Tutoring Platform](https://github.com/ych680/StudyPal)
+
+An undergraduate group project designed to connect students with tutors.
+
+- Cross-platform mobile development with React Native
+- Firebase integration
+- UI/UX design with Figma
+- Search, messaging, and tutor discovery features
+
+## 🔍 Current Interests
+
+- AI Product & AI-native applications
+- AI Solutions & implementation
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & workflow automation
+- Human-in-the-loop AI systems
+
+## 🛠 Technologies & Tools
+
+`FastGPT` · `LLMs` · `RAG` · `Python` · `JavaScript` · `React Native` · `Node.js` · `Firebase` · `Git` · `Figma`
+
+## 📫 Connect
+
+- LinkedIn: [YuPeng Chen](https://www.linkedin.com/in/yupeng-chen-ai)
+- GitHub: `@ych680`
