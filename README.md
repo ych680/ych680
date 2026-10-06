@@ -39,7 +39,7 @@ An undergraduate group project designed to connect students with tutors.
 
 ## 🛠 Technologies & Tools
 
-`FastGPT` · `LLMs` · `RAG` · `Python` · `JavaScript` · `React Native` · `Node.js` · `Firebase` · `Git` · `Figma`
+`FastGPT` · `LLMs` · `RAG` · `Codex` · `GitHub Actions` · `Python` · `JavaScript` · `React Native` · `Node.js` · `Firebase` · `Git` · `Figma`
 
 ## 📫 Connect
 
