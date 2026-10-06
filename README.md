@@ -6,7 +6,7 @@ I enjoy building practical AI applications that connect language models with rea
 
 ## 🚀 Featured Projects
 
-### MyTech — Grounded RAG Product Recommendation Assistant
+### [MyTech — Grounded RAG Product Recommendation Assistant](https://github.com/ych680/mytech-ai-assistant)
 A grounded product recommendation chatbot built with FastGPT.
 
 - RAG with Knowledge Base retrieval
